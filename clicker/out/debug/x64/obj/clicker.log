@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  clicker.cpp
+  config.cpp
+  menu.cpp
+  utils.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+  clicker.vcxproj -> C:\Users\Roxas\OneDrive\Bureau\clicker-master\clicker\out\debug\x64\clicker.exe
